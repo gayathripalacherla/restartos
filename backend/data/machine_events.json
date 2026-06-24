@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "14:12:41",
+    "line": "Line 3",
+    "machine": "Filler",
+    "level": "WARNING",
+    "message": "Fill pressure unstable"
+  },
+  {
+    "timestamp": "14:12:58",
+    "line": "Line 3",
+    "machine": "Filler",
+    "level": "FAULT",
+    "message": "Servo overload on filler head 4"
+  },
+  {
+    "timestamp": "14:13:02",
+    "line": "Line 3",
+    "machine": "Conveyor",
+    "level": "STOP",
+    "message": "Downstream interlock triggered"
+  },
+  {
+    "timestamp": "14:13:05",
+    "line": "Line 3",
+    "machine": "Capper",
+    "level": "WARNING",
+    "message": "Bottle accumulation detected"
+  },
+  {
+    "timestamp": "14:13:09",
+    "line": "Line 3",
+    "machine": "Labeler",
+    "level": "STOP",
+    "message": "Upstream starvation"
+  },
+{
+  "timestamp": "16:22:10",
+  "line": "Line 2",
+  "machine": "Labeler",
+  "level": "WARNING",
+  "message": "Label alignment drift detected"
+},
+{
+  "timestamp": "16:23:44",
+  "line": "Line 2",
+  "machine": "Labeler",
+  "level": "FAULT",
+  "message": "Repeated label misalignment"
+}
+]

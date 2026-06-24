@@ -1,0 +1,4416 @@
+[
+  {
+    "timestamp": "AI4I-00051",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47230. Failure modes: power failure. Air temp 298.9K, process temp 309.1K, rotational speed 2861 rpm, torque 4.6 Nm, tool wear 143 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47230",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00070",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47249. Failure modes: power failure, overstrain failure. Air temp 298.9K, process temp 309K, rotational speed 1410 rpm, torque 65.7 Nm, tool wear 191 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47249",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00078",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47257. Failure modes: tool wear failure. Air temp 298.8K, process temp 308.9K, rotational speed 1455 rpm, torque 41.3 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47257",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00161",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47340. Failure modes: overstrain failure. Air temp 298.4K, process temp 308.2K, rotational speed 1282 rpm, torque 60.7 Nm, tool wear 216 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47340",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00162",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47341. Failure modes: overstrain failure. Air temp 298.3K, process temp 308.1K, rotational speed 1412 rpm, torque 52.3 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47341",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00169",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47348. Failure modes: power failure. Air temp 298.4K, process temp 308.3K, rotational speed 1433 rpm, torque 62.3 Nm, tool wear 20 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47348",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00195",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15054. Failure modes: power failure. Air temp 298.2K, process temp 308.5K, rotational speed 2678 rpm, torque 10.7 Nm, tool wear 86 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15054",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00208",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15067. Failure modes: power failure. Air temp 298.4K, process temp 308.7K, rotational speed 1421 rpm, torque 60.7 Nm, tool wear 119 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15067",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00243",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47422. Failure modes: overstrain failure. Air temp 298.0K, process temp 308.2K, rotational speed 1348 rpm, torque 58.8 Nm, tool wear 202 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47422",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00249",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47428. Failure modes: overstrain failure. Air temp 298.0K, process temp 308.3K, rotational speed 1362 rpm, torque 56.8 Nm, tool wear 216 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47428",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00250",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47429. Failure modes: overstrain failure. Air temp 298.0K, process temp 308.3K, rotational speed 1405 rpm, torque 56.2 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47429",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00260",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15119. Failure modes: power failure. Air temp 298.1K, process temp 308.2K, rotational speed 1420 rpm, torque 63.9 Nm, tool wear 19 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15119",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00328",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47507. Failure modes: overstrain failure. Air temp 297.7K, process temp 308.5K, rotational speed 1373 rpm, torque 56.7 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47507",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00381",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47560. Failure modes: power failure. Air temp 297.5K, process temp 308.3K, rotational speed 2564 rpm, torque 12.8 Nm, tool wear 127 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47560",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00443",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47622. Failure modes: power failure. Air temp 297.4K, process temp 308.5K, rotational speed 1399 rpm, torque 61.5 Nm, tool wear 61 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47622",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00464",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47643. Failure modes: power failure. Air temp 297.4K, process temp 308.7K, rotational speed 2874 rpm, torque 4.2 Nm, tool wear 118 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47643",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00587",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47766. Failure modes: overstrain failure. Air temp 297.6K, process temp 309.6K, rotational speed 1501 rpm, torque 49.8 Nm, tool wear 222 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47766",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00604",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47783. Failure modes: power failure. Air temp 297.9K, process temp 309.8K, rotational speed 1336 rpm, torque 71.6 Nm, tool wear 31 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47783",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00747",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L47926. Failure modes: overstrain failure. Air temp 296.8K, process temp 308.1K, rotational speed 1289 rpm, torque 62.0 Nm, tool wear 199 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L47926",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00848",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48027. Failure modes: power failure. Air temp 296.4K, process temp 307.4K, rotational speed 2833 rpm, torque 5.6 Nm, tool wear 213 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48027",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00881",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15740. Failure modes: power failure. Air temp 295.8K, process temp 306.3K, rotational speed 1235 rpm, torque 76.2 Nm, tool wear 89 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15740",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00904",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48083. Failure modes: power failure. Air temp 295.7K, process temp 306.2K, rotational speed 2270 rpm, torque 14.6 Nm, tool wear 149 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48083",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-00927",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48106. Failure modes: overstrain failure. Air temp 295.6K, process temp 306.1K, rotational speed 1372 rpm, torque 55.6 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48106",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01017",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15876. Failure modes: power failure. Air temp 296.3K, process temp 307.2K, rotational speed 1319 rpm, torque 68.3 Nm, tool wear 24 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15876",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01086",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48265. Failure modes: overstrain failure. Air temp 297.0K, process temp 307.8K, rotational speed 1385 rpm, torque 56.4 Nm, tool wear 202 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48265",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01088",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H30501. Failure modes: tool wear failure. Air temp 296.9K, process temp 307.8K, rotational speed 1549 rpm, torque 35.8 Nm, tool wear 206 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H30501",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01096",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48275. Failure modes: power failure. Air temp 296.9K, process temp 307.5K, rotational speed 2721 rpm, torque 9.3 Nm, tool wear 18 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48275",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01124",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H30537. Failure modes: power failure. Air temp 296.6K, process temp 307.7K, rotational speed 1386 rpm, torque 62.3 Nm, tool wear 100 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H30537",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01125",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M15984. Failure modes: power failure. Air temp 296.7K, process temp 307.8K, rotational speed 1258 rpm, torque 69.0 Nm, tool wear 105 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M15984",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01145",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48324. Failure modes: power failure. Air temp 297.0K, process temp 307.9K, rotational speed 1296 rpm, torque 69.1 Nm, tool wear 153 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48324",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01162",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48341. Failure modes: overstrain failure. Air temp 297.0K, process temp 307.8K, rotational speed 1316 rpm, torque 61.2 Nm, tool wear 200 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48341",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01163",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48342. Failure modes: overstrain failure. Air temp 296.9K, process temp 307.8K, rotational speed 1400 rpm, torque 57.1 Nm, tool wear 202 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48342",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01168",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48347. Failure modes: overstrain failure. Air temp 297.0K, process temp 308.1K, rotational speed 1362 rpm, torque 52.5 Nm, tool wear 213 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48347",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01285",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48464. Failure modes: power failure. Air temp 298.4K, process temp 309.5K, rotational speed 2153 rpm, torque 15.3 Nm, tool wear 98 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48464",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01325",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M16184. Failure modes: power failure, overstrain failure. Air temp 298.8K, process temp 310.1K, rotational speed 1243 rpm, torque 74.5 Nm, tool wear 194 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M16184",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01335",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48514. Failure modes: overstrain failure. Air temp 299.0K, process temp 310.4K, rotational speed 1365 rpm, torque 49.1 Nm, tool wear 226 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48514",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01336",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48515. Failure modes: overstrain failure. Air temp 299.0K, process temp 310.4K, rotational speed 1371 rpm, torque 53.8 Nm, tool wear 228 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48515",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01392",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48571. Failure modes: power failure. Air temp 298.9K, process temp 310.2K, rotational speed 2737 rpm, torque 8.8 Nm, tool wear 142 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48571",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01420",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48599. Failure modes: overstrain failure. Air temp 298.7K, process temp 309.8K, rotational speed 1354 rpm, torque 53.3 Nm, tool wear 212 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48599",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01438",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H30851. Failure modes: unspecified. Air temp 298.8K, process temp 309.9K, rotational speed 1439 rpm, torque 45.2 Nm, tool wear 40 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H30851",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-01493",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M16352. Failure modes: power failure. Air temp 298.0K, process temp 308.7K, rotational speed 1479 rpm, torque 58.5 Nm, tool wear 176 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M16352",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01497",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48676. Failure modes: power failure, overstrain failure. Air temp 298.0K, process temp 308.7K, rotational speed 1268 rpm, torque 69.4 Nm, tool wear 189 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48676",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01510",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48689. Failure modes: tool wear failure. Air temp 298.0K, process temp 308.5K, rotational speed 1429 rpm, torque 37.7 Nm, tool wear 220 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48689",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01584",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48763. Failure modes: overstrain failure. Air temp 298.2K, process temp 308.4K, rotational speed 1310 rpm, torque 61.0 Nm, tool wear 189 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48763",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01596",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48775. Failure modes: overstrain failure. Air temp 298.0K, process temp 308.2K, rotational speed 1365 rpm, torque 52.9 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48775",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01683",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H31096. Failure modes: tool wear failure. Air temp 297.9K, process temp 307.4K, rotational speed 1604 rpm, torque 36.1 Nm, tool wear 225 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H31096",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01764",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48943. Failure modes: tool wear failure. Air temp 298.2K, process temp 307.6K, rotational speed 1511 rpm, torque 31.0 Nm, tool wear 209 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48943",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01785",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48964. Failure modes: power failure. Air temp 298.3K, process temp 308K, rotational speed 2886 rpm, torque 3.8 Nm, tool wear 57 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48964",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01790",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48969. Failure modes: power failure. Air temp 298.2K, process temp 307.9K, rotational speed 1313 rpm, torque 67.3 Nm, tool wear 67 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48969",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01809",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L48988. Failure modes: power failure. Air temp 298.1K, process temp 307.7K, rotational speed 2567 rpm, torque 12.8 Nm, tool wear 125 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L48988",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01834",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49013. Failure modes: overstrain failure. Air temp 297.8K, process temp 307.3K, rotational speed 1327 rpm, torque 61.0 Nm, tool wear 186 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49013",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-01997",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M16856. Failure modes: tool wear failure. Air temp 298.4K, process temp 308K, rotational speed 1416 rpm, torque 38.2 Nm, tool wear 198 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M16856",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02016",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49195. Failure modes: power failure. Air temp 298.5K, process temp 308.2K, rotational speed 1301 rpm, torque 66.3 Nm, tool wear 42 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49195",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02076",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49255. Failure modes: overstrain failure. Air temp 299.5K, process temp 309.4K, rotational speed 1390 rpm, torque 58.8 Nm, tool wear 195 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49255",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02126",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49305. Failure modes: power failure. Air temp 299.3K, process temp 308.9K, rotational speed 1258 rpm, torque 69.4 Nm, tool wear 119 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49305",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02167",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17026. Failure modes: tool wear failure. Air temp 299.6K, process temp 309.2K, rotational speed 1867 rpm, torque 23.4 Nm, tool wear 225 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17026",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02234",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49413. Failure modes: power failure. Air temp 299.5K, process temp 308.7K, rotational speed 2549 rpm, torque 13.0 Nm, tool wear 179 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49413",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02245",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17104. Failure modes: tool wear failure. Air temp 299.3K, process temp 308.4K, rotational speed 1542 rpm, torque 37.5 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17104",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02300",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49479. Failure modes: power failure. Air temp 299.4K, process temp 308.7K, rotational speed 1446 rpm, torque 62.9 Nm, tool wear 134 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49479",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02332",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49511. Failure modes: overstrain failure. Air temp 299.3K, process temp 308.6K, rotational speed 1384 rpm, torque 53.6 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49511",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02333",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49512. Failure modes: overstrain failure. Air temp 299.2K, process temp 308.5K, rotational speed 1378 rpm, torque 50.4 Nm, tool wear 220 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49512",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02427",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17286. Failure modes: power failure. Air temp 298.9K, process temp 308.2K, rotational speed 1372 rpm, torque 63.6 Nm, tool wear 30 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17286",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02445",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49624. Failure modes: power failure. Air temp 299.2K, process temp 308.6K, rotational speed 1267 rpm, torque 68.2 Nm, tool wear 76 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49624",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02495",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49674. Failure modes: overstrain failure. Air temp 299.1K, process temp 308.8K, rotational speed 1329 rpm, torque 53.6 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49674",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02503",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49682. Failure modes: overstrain failure. Air temp 299.2K, process temp 309K, rotational speed 1515 rpm, torque 48.9 Nm, tool wear 228 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49682",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02582",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49761. Failure modes: overstrain failure. Air temp 299.2K, process temp 309.1K, rotational speed 1345 rpm, torque 60.7 Nm, tool wear 191 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49761",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02599",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49778. Failure modes: power failure. Air temp 299.1K, process temp 308.8K, rotational speed 1320 rpm, torque 67.5 Nm, tool wear 20 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49778",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02672",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17531. Failure modes: tool wear failure. Air temp 299.7K, process temp 309.3K, rotational speed 1399 rpm, torque 41.9 Nm, tool wear 221 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17531",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02750",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17609. Failure modes: unspecified. Air temp 299.7K, process temp 309.2K, rotational speed 1685 rpm, torque 28.9 Nm, tool wear 179 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17609",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-02762",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L49941. Failure modes: overstrain failure. Air temp 299.8K, process temp 309.3K, rotational speed 1299 rpm, torque 65.1 Nm, tool wear 212 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L49941",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02859",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50038. Failure modes: overstrain failure. Air temp 300.5K, process temp 309.3K, rotational speed 1417 rpm, torque 51.5 Nm, tool wear 231 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50038",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02865",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H32278. Failure modes: tool wear failure. Air temp 300.6K, process temp 309.4K, rotational speed 1380 rpm, torque 47.6 Nm, tool wear 246 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H32278",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02880",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17739. Failure modes: power failure. Air temp 300.6K, process temp 309.4K, rotational speed 1367 rpm, torque 63.2 Nm, tool wear 45 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17739",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-02942",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M17801. Failure modes: tool wear failure. Air temp 300.7K, process temp 309.6K, rotational speed 1996 rpm, torque 19.8 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M17801",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03001",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H32414. Failure modes: power failure. Air temp 300.5K, process temp 309.8K, rotational speed 1324 rpm, torque 72.8 Nm, tool wear 159 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H32414",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03020",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50199. Failure modes: overstrain failure. Air temp 300.5K, process temp 309.8K, rotational speed 1379 rpm, torque 54.2 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50199",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03141",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H32554. Failure modes: power failure. Air temp 300.4K, process temp 309.9K, rotational speed 2563 rpm, torque 12.8 Nm, tool wear 81 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H32554",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03237",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18096. Failure modes: heat dissipation failure. Air temp 300.8K, process temp 309.4K, rotational speed 1342 rpm, torque 62.4 Nm, tool wear 113 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18096",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03267",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50446. Failure modes: overstrain failure. Air temp 301.3K, process temp 310.1K, rotational speed 1269 rpm, torque 56.8 Nm, tool wear 195 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50446",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03351",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50530. Failure modes: overstrain failure. Air temp 301.4K, process temp 310.8K, rotational speed 1285 rpm, torque 62.6 Nm, tool wear 183 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50530",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03357",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50536. Failure modes: overstrain failure. Air temp 301.6K, process temp 310.8K, rotational speed 1355 rpm, torque 57.8 Nm, tool wear 195 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50536",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03370",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50549. Failure modes: power failure. Air temp 301.5K, process temp 310.9K, rotational speed 2760 rpm, torque 8.0 Nm, tool wear 15 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50549",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03458",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18317. Failure modes: power failure. Air temp 301.5K, process temp 310.4K, rotational speed 2639 rpm, torque 12.0 Nm, tool wear 21 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18317",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03529",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50708. Failure modes: overstrain failure. Air temp 302.0K, process temp 310.9K, rotational speed 1378 rpm, torque 53.1 Nm, tool wear 212 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50708",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03530",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50709. Failure modes: tool wear failure. Air temp 301.9K, process temp 310.9K, rotational speed 1567 rpm, torque 39.0 Nm, tool wear 214 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50709",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03580",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50759. Failure modes: power failure. Air temp 301.8K, process temp 310.6K, rotational speed 2672 rpm, torque 11.8 Nm, tool wear 124 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50759",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03612",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50791. Failure modes: tool wear failure, random failure. Air temp 301.7K, process temp 310.9K, rotational speed 1405 rpm, torque 46.4 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50791",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure",
+      "random failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03685",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50864. Failure modes: overstrain failure. Air temp 302.0K, process temp 311.2K, rotational speed 1270 rpm, torque 65.3 Nm, tool wear 182 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50864",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03696",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50875. Failure modes: tool wear failure. Air temp 302.2K, process temp 311.3K, rotational speed 1530 rpm, torque 37.3 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50875",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03761",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50940. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.9K, rotational speed 1377 rpm, torque 46.8 Nm, tool wear 166 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50940",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03788",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50967. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.8K, rotational speed 1377 rpm, torque 47.3 Nm, tool wear 22 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50967",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03794",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L50973. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.9K, rotational speed 1379 rpm, torque 49.3 Nm, tool wear 34 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L50973",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03807",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18666. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.9K, rotational speed 1360 rpm, torque 44.0 Nm, tool wear 67 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18666",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03815",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18674. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.6K, rotational speed 1326 rpm, torque 59.1 Nm, tool wear 88 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18674",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03830",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33243. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.9K, rotational speed 1366 rpm, torque 48.4 Nm, tool wear 130 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33243",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03855",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51034. Failure modes: power failure, overstrain failure. Air temp 302.4K, process temp 311K, rotational speed 1338 rpm, torque 67.6 Nm, tool wear 194 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51034",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03866",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33279. Failure modes: tool wear failure. Air temp 302.6K, process temp 311.5K, rotational speed 1629 rpm, torque 34.4 Nm, tool wear 228 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33279",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03868",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18727. Failure modes: power failure. Air temp 302.7K, process temp 311.6K, rotational speed 2709 rpm, torque 9.7 Nm, tool wear 2 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18727",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03929",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51108. Failure modes: power failure. Air temp 302.6K, process temp 311.5K, rotational speed 1442 rpm, torque 59.8 Nm, tool wear 169 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51108",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03936",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18795. Failure modes: overstrain failure. Air temp 302.6K, process temp 311.6K, rotational speed 1227 rpm, torque 68.2 Nm, tool wear 187 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18795",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-03944",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51123. Failure modes: power failure, overstrain failure. Air temp 302.3K, process temp 311.4K, rotational speed 1333 rpm, torque 66.7 Nm, tool wear 205 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51123",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04003",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51182. Failure modes: power failure. Air temp 302.1K, process temp 311.2K, rotational speed 1454 rpm, torque 59.2 Nm, tool wear 153 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51182",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04025",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18884. Failure modes: overstrain failure. Air temp 302.1K, process temp 311K, rotational speed 1351 rpm, torque 60.3 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18884",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04033",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51212. Failure modes: overstrain failure. Air temp 302.0K, process temp 310.8K, rotational speed 1383 rpm, torque 50.3 Nm, tool wear 231 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51212",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04035",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51214. Failure modes: tool wear failure. Air temp 302.0K, process temp 310.8K, rotational speed 1615 rpm, torque 29.0 Nm, tool wear 235 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51214",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04045",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18904. Failure modes: unspecified. Air temp 301.9K, process temp 310.9K, rotational speed 1419 rpm, torque 47.7 Nm, tool wear 20 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18904",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-04049",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51228. Failure modes: power failure. Air temp 301.9K, process temp 311K, rotational speed 2691 rpm, torque 12.1 Nm, tool wear 31 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51228",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04072",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51251. Failure modes: power failure. Air temp 301.9K, process temp 310.6K, rotational speed 1331 rpm, torque 68.6 Nm, tool wear 85 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51251",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04079",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33492. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1294 rpm, torque 62.4 Nm, tool wear 101 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33492",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04081",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51260. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.4K, rotational speed 1357 rpm, torque 58.0 Nm, tool wear 108 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51260",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04082",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51261. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.4K, rotational speed 1336 rpm, torque 58.2 Nm, tool wear 110 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51261",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04088",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51267. Failure modes: heat dissipation failure. Air temp 301.9K, process temp 310.4K, rotational speed 1376 rpm, torque 54.9 Nm, tool wear 126 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51267",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04097",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51276. Failure modes: heat dissipation failure. Air temp 301.9K, process temp 310.4K, rotational speed 1370 rpm, torque 51.7 Nm, tool wear 153 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51276",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04118",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51297. Failure modes: overstrain failure. Air temp 301.9K, process temp 310.5K, rotational speed 1340 rpm, torque 55.7 Nm, tool wear 204 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51297",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04120",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51299. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1325 rpm, torque 45.1 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51299",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04121",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18980. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1376 rpm, torque 46.3 Nm, tool wear 210 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18980",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04122",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M18981. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1364 rpm, torque 47.8 Nm, tool wear 213 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M18981",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04131",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51310. Failure modes: heat dissipation failure. Air temp 301.9K, process temp 310.4K, rotational speed 1286 rpm, torque 62.8 Nm, tool wear 22 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51310",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04139",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51318. Failure modes: heat dissipation failure. Air temp 301.7K, process temp 310.2K, rotational speed 1311 rpm, torque 57.4 Nm, tool wear 40 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51318",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04141",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51320. Failure modes: heat dissipation failure. Air temp 301.7K, process temp 310.2K, rotational speed 1331 rpm, torque 61.2 Nm, tool wear 47 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51320",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04152",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19011. Failure modes: heat dissipation failure. Air temp 301.9K, process temp 310.4K, rotational speed 1373 rpm, torque 48.0 Nm, tool wear 73 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19011",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04154",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19013. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.4K, rotational speed 1212 rpm, torque 55.6 Nm, tool wear 79 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19013",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04156",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51335. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.5K, rotational speed 1370 rpm, torque 44.4 Nm, tool wear 85 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51335",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04158",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51337. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.5K, rotational speed 1263 rpm, torque 60.6 Nm, tool wear 90 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51337",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04165",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51344. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.6K, rotational speed 1346 rpm, torque 47.5 Nm, tool wear 109 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51344",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04171",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19030. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.6K, rotational speed 1355 rpm, torque 51.5 Nm, tool wear 126 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19030",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04174",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19033. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.6K, rotational speed 1346 rpm, torque 49.2 Nm, tool wear 134 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19033",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04180",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51359. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.9K, rotational speed 1349 rpm, torque 46.1 Nm, tool wear 148 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51359",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04183",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51362. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.7K, rotational speed 1362 rpm, torque 54.8 Nm, tool wear 155 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51362",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04185",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51364. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.6K, rotational speed 1334 rpm, torque 53.2 Nm, tool wear 159 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51364",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04186",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51365. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.6K, rotational speed 1348 rpm, torque 48.4 Nm, tool wear 161 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51365",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04208",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19067. Failure modes: tool wear failure. Air temp 302.3K, process temp 310.9K, rotational speed 1710 rpm, torque 30.4 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19067",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04212",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51391. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1314 rpm, torque 52.8 Nm, tool wear 8 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51391",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04226",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51405. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.7K, rotational speed 1359 rpm, torque 49.3 Nm, tool wear 41 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51405",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04248",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51427. Failure modes: heat dissipation failure. Air temp 302.6K, process temp 311K, rotational speed 1369 rpm, torque 60.0 Nm, tool wear 93 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51427",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04250",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51429. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.9K, rotational speed 1330 rpm, torque 56.9 Nm, tool wear 97 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51429",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04252",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33665. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.9K, rotational speed 1356 rpm, torque 55.5 Nm, tool wear 101 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33665",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04254",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19113. Failure modes: heat dissipation failure. Air temp 302.6K, process temp 311K, rotational speed 1329 rpm, torque 48.6 Nm, tool wear 111 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19113",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04255",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51434. Failure modes: heat dissipation failure, power failure. Air temp 302.6K, process temp 311K, rotational speed 1284 rpm, torque 68.0 Nm, tool wear 114 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51434",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04259",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19118. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 311.1K, rotational speed 1297 rpm, torque 60.7 Nm, tool wear 125 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19118",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04271",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51450. Failure modes: heat dissipation failure. Air temp 302.6K, process temp 310.9K, rotational speed 1331 rpm, torque 52.0 Nm, tool wear 154 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51450",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04280",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51459. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 310.1K, rotational speed 1361 rpm, torque 45.4 Nm, tool wear 174 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51459",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04283",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51462. Failure modes: heat dissipation failure. Air temp 301.9K, process temp 309.9K, rotational speed 1374 rpm, torque 48.5 Nm, tool wear 180 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51462",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04284",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19143. Failure modes: heat dissipation failure. Air temp 301.8K, process temp 309.9K, rotational speed 1334 rpm, torque 61.0 Nm, tool wear 182 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19143",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04286",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51465. Failure modes: heat dissipation failure. Air temp 301.7K, process temp 309.9K, rotational speed 1317 rpm, torque 49.0 Nm, tool wear 187 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51465",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04293",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19152. Failure modes: power failure. Air temp 301.8K, process temp 310.1K, rotational speed 2372 rpm, torque 13.9 Nm, tool wear 205 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19152",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04297",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51476. Failure modes: power failure. Air temp 301.8K, process temp 310.2K, rotational speed 2825 rpm, torque 5.8 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51476",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04308",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51487. Failure modes: heat dissipation failure. Air temp 301.4K, process temp 309.9K, rotational speed 1259 rpm, torque 63.9 Nm, tool wear 20 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51487",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04324",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51503. Failure modes: heat dissipation failure. Air temp 301.8K, process temp 310.3K, rotational speed 1341 rpm, torque 50.5 Nm, tool wear 64 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51503",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04327",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51506. Failure modes: heat dissipation failure. Air temp 301.6K, process temp 310.1K, rotational speed 1362 rpm, torque 55.8 Nm, tool wear 70 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51506",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04329",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51508. Failure modes: heat dissipation failure. Air temp 301.6K, process temp 310.1K, rotational speed 1326 rpm, torque 48.2 Nm, tool wear 77 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51508",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04343",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19202. Failure modes: heat dissipation failure, power failure. Air temp 301.7K, process temp 309.8K, rotational speed 1284 rpm, torque 68.2 Nm, tool wear 111 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19202",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04354",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19213. Failure modes: power failure. Air temp 302.0K, process temp 309.7K, rotational speed 1386 rpm, torque 62.7 Nm, tool wear 142 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19213",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04356",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33769. Failure modes: heat dissipation failure. Air temp 302.0K, process temp 309.8K, rotational speed 1280 rpm, torque 57.3 Nm, tool wear 147 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33769",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04362",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19221. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310.1K, rotational speed 1379 rpm, torque 48.2 Nm, tool wear 166 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19221",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04371",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51550. Failure modes: heat dissipation failure, overstrain failure. Air temp 302.0K, process temp 309.9K, rotational speed 1308 rpm, torque 57.6 Nm, tool wear 197 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51550",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04384",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51563. Failure modes: heat dissipation failure, overstrain failure. Air temp 301.7K, process temp 309.5K, rotational speed 1298 rpm, torque 65.5 Nm, tool wear 229 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51563",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04386",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51565. Failure modes: tool wear failure. Air temp 301.8K, process temp 309.7K, rotational speed 1442 rpm, torque 45.3 Nm, tool wear 233 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51565",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04390",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19249. Failure modes: heat dissipation failure. Air temp 302.1K, process temp 310K, rotational speed 1355 rpm, torque 45.1 Nm, tool wear 6 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19249",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04392",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19251. Failure modes: heat dissipation failure. Air temp 302.2K, process temp 310.1K, rotational speed 1368 rpm, torque 51.6 Nm, tool wear 12 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19251",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04401",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51580. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.1K, rotational speed 1353 rpm, torque 50.9 Nm, tool wear 36 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51580",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04406",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51585. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.2K, rotational speed 1331 rpm, torque 45.5 Nm, tool wear 53 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51585",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04407",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51586. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.3K, rotational speed 1326 rpm, torque 58.5 Nm, tool wear 55 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51586",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04410",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19269. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.1K, rotational speed 1358 rpm, torque 54.6 Nm, tool wear 61 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19269",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04418",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51597. Failure modes: heat dissipation failure, power failure. Air temp 302.6K, process temp 310.4K, rotational speed 1365 rpm, torque 66.8 Nm, tool wear 80 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51597",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04420",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19279. Failure modes: power failure. Air temp 302.6K, process temp 310.2K, rotational speed 2676 rpm, torque 10.8 Nm, tool wear 84 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19279",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04422",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51601. Failure modes: heat dissipation failure. Air temp 302.6K, process temp 310.2K, rotational speed 1325 rpm, torque 62.4 Nm, tool wear 92 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51601",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04428",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19287. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.1K, rotational speed 1379 rpm, torque 48.9 Nm, tool wear 107 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19287",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04436",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51615. Failure modes: heat dissipation failure. Air temp 302.3K, process temp 310.1K, rotational speed 1321 rpm, torque 52.7 Nm, tool wear 134 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51615",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04442",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51621. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.2K, rotational speed 1329 rpm, torque 50.6 Nm, tool wear 148 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51621",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04449",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51628. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.3K, rotational speed 1374 rpm, torque 51.2 Nm, tool wear 163 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51628",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04450",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19309. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.3K, rotational speed 1378 rpm, torque 54.3 Nm, tool wear 165 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19309",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04463",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51642. Failure modes: heat dissipation failure, overstrain failure. Air temp 302.7K, process temp 310.5K, rotational speed 1263 rpm, torque 67.8 Nm, tool wear 197 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51642",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04470",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51649. Failure modes: tool wear failure. Air temp 302.7K, process temp 310.5K, rotational speed 1446 rpm, torque 40.9 Nm, tool wear 211 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51649",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04476",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51655. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 310.5K, rotational speed 1351 rpm, torque 41.8 Nm, tool wear 10 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51655",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04481",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33894. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 310.4K, rotational speed 1305 rpm, torque 55.2 Nm, tool wear 20 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33894",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04496",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51675. Failure modes: heat dissipation failure. Air temp 302.6K, process temp 310.4K, rotational speed 1359 rpm, torque 57.2 Nm, tool wear 67 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51675",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04502",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51681. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.2K, rotational speed 1307 rpm, torque 54.0 Nm, tool wear 86 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51681",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04511",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51690. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.2K, rotational speed 1346 rpm, torque 62.4 Nm, tool wear 106 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51690",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04528",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19387. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.5K, rotational speed 1372 rpm, torque 45.7 Nm, tool wear 144 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19387",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04534",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19393. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.3K, rotational speed 1375 rpm, torque 52.5 Nm, tool wear 161 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19393",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04537",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51716. Failure modes: heat dissipation failure. Air temp 302.4K, process temp 310.2K, rotational speed 1351 rpm, torque 45.1 Nm, tool wear 168 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51716",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04545",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51724. Failure modes: heat dissipation failure. Air temp 302.5K, process temp 310.4K, rotational speed 1349 rpm, torque 55.1 Nm, tool wear 187 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51724",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04557",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19416. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 310.6K, rotational speed 1349 rpm, torque 51.2 Nm, tool wear 6 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19416",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04559",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51738. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 310.7K, rotational speed 1369 rpm, torque 47.5 Nm, tool wear 11 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51738",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04566",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H33979. Failure modes: heat dissipation failure. Air temp 302.7K, process temp 310.8K, rotational speed 1275 rpm, torque 55.0 Nm, tool wear 25 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H33979",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04571",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51750. Failure modes: heat dissipation failure. Air temp 302.8K, process temp 310.9K, rotational speed 1312 rpm, torque 52.2 Nm, tool wear 40 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51750",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04580",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51759. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.2K, rotational speed 1374 rpm, torque 48.2 Nm, tool wear 65 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51759",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04597",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51776. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.2K, rotational speed 1361 rpm, torque 47.6 Nm, tool wear 106 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51776",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04601",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51780. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311K, rotational speed 1359 rpm, torque 44.2 Nm, tool wear 115 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51780",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04602",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19461. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.1K, rotational speed 1372 rpm, torque 54.3 Nm, tool wear 117 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19461",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04612",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51791. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.3K, rotational speed 1365 rpm, torque 56.2 Nm, tool wear 146 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51791",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04619",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19478. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.3K, rotational speed 1335 rpm, torque 53.6 Nm, tool wear 164 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19478",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04621",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51800. Failure modes: heat dissipation failure. Air temp 303.1K, process temp 311.3K, rotational speed 1336 rpm, torque 52.6 Nm, tool wear 172 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51800",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04622",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51801. Failure modes: heat dissipation failure. Air temp 303.0K, process temp 311.2K, rotational speed 1341 rpm, torque 51.0 Nm, tool wear 174 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51801",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04633",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19492. Failure modes: heat dissipation failure. Air temp 302.9K, process temp 311.2K, rotational speed 1330 rpm, torque 53.7 Nm, tool wear 200 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19492",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04643",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51822. Failure modes: heat dissipation failure, overstrain failure. Air temp 303.2K, process temp 311.4K, rotational speed 1238 rpm, torque 54.6 Nm, tool wear 226 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51822",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04644",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51823. Failure modes: heat dissipation failure, overstrain failure. Air temp 303.2K, process temp 311.4K, rotational speed 1324 rpm, torque 54.2 Nm, tool wear 228 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51823",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04647",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51826. Failure modes: tool wear failure. Air temp 303.3K, process temp 311.4K, rotational speed 1497 rpm, torque 46.0 Nm, tool wear 234 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51826",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04652",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51831. Failure modes: heat dissipation failure. Air temp 303.2K, process temp 311.4K, rotational speed 1349 rpm, torque 51.1 Nm, tool wear 9 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51831",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04662",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51841. Failure modes: heat dissipation failure. Air temp 303.3K, process temp 311.3K, rotational speed 1350 rpm, torque 48.1 Nm, tool wear 32 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51841",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04666",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19525. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.4K, rotational speed 1307 rpm, torque 54.0 Nm, tool wear 44 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19525",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04670",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19529. Failure modes: heat dissipation failure. Air temp 303.3K, process temp 311.5K, rotational speed 1373 rpm, torque 47.3 Nm, tool wear 60 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19529",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04685",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19544. Failure modes: unspecified. Air temp 303.6K, process temp 311.8K, rotational speed 1421 rpm, torque 44.8 Nm, tool wear 101 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19544",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-04703",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51882. Failure modes: heat dissipation failure. Air temp 303.6K, process temp 311.8K, rotational speed 1222 rpm, torque 66.8 Nm, tool wear 148 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51882",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04719",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51898. Failure modes: heat dissipation failure. Air temp 303.3K, process temp 311.6K, rotational speed 1337 rpm, torque 56.8 Nm, tool wear 187 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51898",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04721",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19580. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.7K, rotational speed 1353 rpm, torque 44.1 Nm, tool wear 192 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19580",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04724",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51903. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.8K, rotational speed 1366 rpm, torque 50.9 Nm, tool wear 200 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51903",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04728",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19587. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.8K, rotational speed 1341 rpm, torque 47.0 Nm, tool wear 210 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19587",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04730",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51909. Failure modes: heat dissipation failure, overstrain failure. Air temp 303.4K, process temp 311.8K, rotational speed 1306 rpm, torque 61.0 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51909",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04732",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51911. Failure modes: heat dissipation failure. Air temp 303.3K, process temp 311.6K, rotational speed 1301 rpm, torque 45.1 Nm, tool wear 219 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51911",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04738",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19597. Failure modes: heat dissipation failure. Air temp 303.2K, process temp 311.5K, rotational speed 1336 rpm, torque 58.2 Nm, tool wear 2 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19597",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04740",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51919. Failure modes: heat dissipation failure. Air temp 303.2K, process temp 311.4K, rotational speed 1351 rpm, torque 53.8 Nm, tool wear 8 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51919",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04749",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51928. Failure modes: heat dissipation failure. Air temp 303.2K, process temp 311.2K, rotational speed 1363 rpm, torque 46.7 Nm, tool wear 29 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51928",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04756",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51935. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.7K, rotational speed 1295 rpm, torque 51.3 Nm, tool wear 51 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51935",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04760",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51939. Failure modes: heat dissipation failure. Air temp 303.5K, process temp 311.6K, rotational speed 1361 rpm, torque 46.5 Nm, tool wear 62 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51939",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04762",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H34175. Failure modes: heat dissipation failure. Air temp 303.7K, process temp 311.9K, rotational speed 1332 rpm, torque 52.7 Nm, tool wear 66 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H34175",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04763",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19622. Failure modes: power failure. Air temp 303.7K, process temp 312K, rotational speed 2663 rpm, torque 11.4 Nm, tool wear 71 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19622",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04769",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51948. Failure modes: heat dissipation failure. Air temp 303.6K, process temp 312K, rotational speed 1309 rpm, torque 52.9 Nm, tool wear 86 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51948",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04771",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51950. Failure modes: heat dissipation failure. Air temp 303.5K, process temp 311.9K, rotational speed 1344 rpm, torque 49.3 Nm, tool wear 93 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51950",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04779",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H34192. Failure modes: heat dissipation failure. Air temp 303.6K, process temp 312.2K, rotational speed 1371 rpm, torque 54.6 Nm, tool wear 112 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H34192",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04815",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51994. Failure modes: overstrain failure. Air temp 303.4K, process temp 311.8K, rotational speed 1401 rpm, torque 53.0 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51994",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04817",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L51996. Failure modes: tool wear failure. Air temp 303.4K, process temp 312K, rotational speed 1521 rpm, torque 35.9 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L51996",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04832",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52011. Failure modes: heat dissipation failure. Air temp 303.5K, process temp 312K, rotational speed 1366 rpm, torque 54.5 Nm, tool wear 30 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52011",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04834",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52013. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.9K, rotational speed 1377 rpm, torque 41.6 Nm, tool wear 34 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52013",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04837",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52016. Failure modes: heat dissipation failure. Air temp 303.3K, process temp 311.8K, rotational speed 1315 rpm, torque 62.0 Nm, tool wear 42 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52016",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04841",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52020. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.9K, rotational speed 1298 rpm, torque 63.9 Nm, tool wear 59 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52020",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04845",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19704. Failure modes: heat dissipation failure. Air temp 303.4K, process temp 311.8K, rotational speed 1316 rpm, torque 50.9 Nm, tool wear 69 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19704",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04852",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52031. Failure modes: heat dissipation failure. Air temp 303.7K, process temp 312.1K, rotational speed 1363 rpm, torque 51.8 Nm, tool wear 90 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52031",
+    "machine_failure": 1,
+    "failure_modes": [
+      "heat dissipation failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04921",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52100. Failure modes: power failure. Air temp 303.4K, process temp 312.2K, rotational speed 1337 rpm, torque 69.4 Nm, tool wear 52 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52100",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04937",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52116. Failure modes: power failure. Air temp 303.5K, process temp 312.4K, rotational speed 1284 rpm, torque 70.6 Nm, tool wear 94 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52116",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04977",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52156. Failure modes: overstrain failure. Air temp 303.7K, process temp 312.7K, rotational speed 1359 rpm, torque 56.8 Nm, tool wear 194 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52156",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04985",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52164. Failure modes: overstrain failure. Air temp 303.8K, process temp 313.1K, rotational speed 1256 rpm, torque 58.7 Nm, tool wear 213 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52164",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04989",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52168. Failure modes: power failure. Air temp 303.8K, process temp 313.1K, rotational speed 2497 rpm, torque 13.0 Nm, tool wear 5 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52168",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-04998",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M19857. Failure modes: power failure. Air temp 303.6K, process temp 312.8K, rotational speed 2659 rpm, torque 11.4 Nm, tool wear 26 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M19857",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05049",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H34462. Failure modes: power failure. Air temp 304.0K, process temp 313.2K, rotational speed 1271 rpm, torque 68.6 Nm, tool wear 161 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H34462",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05062",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52241. Failure modes: overstrain failure. Air temp 304.0K, process temp 312.9K, rotational speed 1363 rpm, torque 62.5 Nm, tool wear 200 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52241",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05142",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52321. Failure modes: tool wear failure. Air temp 304.4K, process temp 313.7K, rotational speed 1509 rpm, torque 35.0 Nm, tool wear 205 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52321",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05220",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52399. Failure modes: overstrain failure. Air temp 303.8K, process temp 313K, rotational speed 1365 rpm, torque 59.9 Nm, tool wear 205 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52399",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05310",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20169. Failure modes: tool wear failure. Air temp 303.9K, process temp 313.2K, rotational speed 1422 rpm, torque 48.0 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20169",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05335",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20194. Failure modes: power failure. Air temp 303.4K, process temp 312.6K, rotational speed 2706 rpm, torque 9.8 Nm, tool wear 65 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20194",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05395",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20254. Failure modes: power failure, overstrain failure. Air temp 302.8K, process temp 312.3K, rotational speed 1262 rpm, torque 70.5 Nm, tool wear 234 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20254",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05400",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H34813. Failure modes: overstrain failure. Air temp 302.8K, process temp 312.4K, rotational speed 1411 rpm, torque 53.8 Nm, tool wear 246 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H34813",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05401",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52580. Failure modes: overstrain failure. Air temp 302.7K, process temp 312.4K, rotational speed 1477 rpm, torque 46.3 Nm, tool wear 251 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52580",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05402",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20261. Failure modes: tool wear failure, overstrain failure. Air temp 302.6K, process temp 312.3K, rotational speed 1454 rpm, torque 54.8 Nm, tool wear 253 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20261",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05489",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52668. Failure modes: overstrain failure. Air temp 302.7K, process temp 312.2K, rotational speed 1450 rpm, torque 52.1 Nm, tool wear 213 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52668",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05491",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52670. Failure modes: power failure. Air temp 302.6K, process temp 312.1K, rotational speed 1288 rpm, torque 68.5 Nm, tool wear 0 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52670",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05537",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20396. Failure modes: unspecified. Air temp 302.3K, process temp 311.8K, rotational speed 1363 rpm, torque 54.0 Nm, tool wear 119 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20396",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-05616",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20475. Failure modes: power failure. Air temp 303.0K, process temp 312.2K, rotational speed 1257 rpm, torque 71.3 Nm, tool wear 122 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20475",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05618",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52797. Failure modes: power failure. Air temp 303.1K, process temp 312.4K, rotational speed 1404 rpm, torque 61.5 Nm, tool wear 127 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52797",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05707",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52886. Failure modes: power failure. Air temp 302.4K, process temp 311.9K, rotational speed 1290 rpm, torque 70.0 Nm, tool wear 139 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52886",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05735",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L52914. Failure modes: overstrain failure. Air temp 302.3K, process temp 311.8K, rotational speed 1369 rpm, torque 56.2 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L52914",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05910",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H35323. Failure modes: tool wear failure, power failure, overstrain failure. Air temp 300.7K, process temp 310.2K, rotational speed 1364 rpm, torque 65.3 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H35323",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure",
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-05942",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53121. Failure modes: unspecified. Air temp 300.6K, process temp 310.7K, rotational speed 1438 rpm, torque 48.5 Nm, tool wear 78 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53121",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-06000",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M20859. Failure modes: tool wear failure. Air temp 300.4K, process temp 310.2K, rotational speed 1671 rpm, torque 30.5 Nm, tool wear 234 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M20859",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06025",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53204. Failure modes: power failure. Air temp 300.7K, process temp 310.9K, rotational speed 1356 rpm, torque 65.3 Nm, tool wear 66 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53204",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06079",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53258. Failure modes: overstrain failure. Air temp 300.8K, process temp 310.7K, rotational speed 1339 rpm, torque 59.1 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53258",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06154",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53333. Failure modes: overstrain failure. Air temp 301.0K, process temp 311.1K, rotational speed 1236 rpm, torque 64.4 Nm, tool wear 177 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53333",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06160",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53339. Failure modes: overstrain failure. Air temp 301.0K, process temp 311K, rotational speed 1399 rpm, torque 58.0 Nm, tool wear 190 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53339",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06173",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53352. Failure modes: tool wear failure. Air temp 300.8K, process temp 310.6K, rotational speed 1577 rpm, torque 37.9 Nm, tool wear 227 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53352",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06179",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53358. Failure modes: power failure. Air temp 301.1K, process temp 310.9K, rotational speed 1282 rpm, torque 67.9 Nm, tool wear 10 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53358",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06249",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53428. Failure modes: power failure, overstrain failure. Air temp 300.8K, process temp 310.1K, rotational speed 1405 rpm, torque 61.2 Nm, tool wear 189 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53428",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06256",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53435. Failure modes: overstrain failure. Air temp 301.0K, process temp 310.5K, rotational speed 1379 rpm, torque 57.3 Nm, tool wear 204 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53435",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06257",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53436. Failure modes: tool wear failure. Air temp 301.0K, process temp 310.6K, rotational speed 1493 rpm, torque 37.8 Nm, tool wear 206 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53436",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06341",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H35754. Failure modes: tool wear failure. Air temp 300.5K, process temp 309.9K, rotational speed 1397 rpm, torque 45.9 Nm, tool wear 210 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H35754",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06420",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type H",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset H35833. Failure modes: tool wear failure. Air temp 300.3K, process temp 309.9K, rotational speed 1394 rpm, torque 46.7 Nm, tool wear 210 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "H35833",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06479",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53658. Failure modes: unspecified. Air temp 300.5K, process temp 309.8K, rotational speed 1663 rpm, torque 29.1 Nm, tool wear 145 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53658",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-06498",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53677. Failure modes: overstrain failure. Air temp 300.8K, process temp 309.9K, rotational speed 1312 rpm, torque 65.3 Nm, tool wear 192 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53677",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06526",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53705. Failure modes: power failure. Air temp 301.1K, process temp 310.4K, rotational speed 1312 rpm, torque 73.6 Nm, tool wear 49 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53705",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06541",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M21400. Failure modes: power failure. Air temp 301.4K, process temp 310.7K, rotational speed 1368 rpm, torque 63.7 Nm, tool wear 92 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M21400",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06619",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M21478. Failure modes: power failure. Air temp 301.6K, process temp 310.6K, rotational speed 1309 rpm, torque 65.8 Nm, tool wear 75 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M21478",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06674",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53853. Failure modes: overstrain failure. Air temp 301.6K, process temp 310.7K, rotational speed 1380 rpm, torque 51.8 Nm, tool wear 216 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53853",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06679",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M21538. Failure modes: power failure. Air temp 301.5K, process temp 310.7K, rotational speed 1336 rpm, torque 65.6 Nm, tool wear 0 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M21538",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06760",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L53939. Failure modes: tool wear failure. Air temp 301.7K, process temp 311K, rotational speed 1441 rpm, torque 44.3 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L53939",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06800",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M21659. Failure modes: power failure. Air temp 301.1K, process temp 310.7K, rotational speed 2636 rpm, torque 12.2 Nm, tool wear 100 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M21659",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06925",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54104. Failure modes: overstrain failure. Air temp 301.2K, process temp 311.6K, rotational speed 1461 rpm, torque 52.9 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54104",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06933",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54112. Failure modes: power failure. Air temp 300.8K, process temp 311.4K, rotational speed 1322 rpm, torque 67.2 Nm, tool wear 18 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54112",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-06991",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54170. Failure modes: power failure. Air temp 300.7K, process temp 311.1K, rotational speed 2478 rpm, torque 13.4 Nm, tool wear 170 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54170",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07012",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54191. Failure modes: power failure. Air temp 300.5K, process temp 310.5K, rotational speed 2633 rpm, torque 12.2 Nm, tool wear 17 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54191",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07084",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54263. Failure modes: power failure, overstrain failure. Air temp 300.7K, process temp 310.4K, rotational speed 1416 rpm, torque 61.8 Nm, tool wear 209 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54263",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07088",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54267. Failure modes: tool wear failure. Air temp 300.6K, process temp 310.3K, rotational speed 1648 rpm, torque 30.5 Nm, tool wear 217 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54267",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07168",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54347. Failure modes: overstrain failure. Air temp 300.3K, process temp 310.3K, rotational speed 1362 rpm, torque 60.3 Nm, tool wear 206 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54347",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07281",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54460. Failure modes: power failure. Air temp 299.9K, process temp 310.2K, rotational speed 1288 rpm, torque 69.6 Nm, tool wear 62 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54460",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07427",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22286. Failure modes: tool wear failure. Air temp 300.0K, process temp 311.4K, rotational speed 1692 rpm, torque 29.0 Nm, tool wear 216 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22286",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07510",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54689. Failure modes: overstrain failure. Air temp 300.6K, process temp 311.9K, rotational speed 1372 rpm, torque 60.1 Nm, tool wear 212 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54689",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07511",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54690. Failure modes: tool wear failure. Air temp 300.5K, process temp 311.8K, rotational speed 1524 rpm, torque 38.9 Nm, tool wear 214 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54690",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07537",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54716. Failure modes: power failure. Air temp 300.1K, process temp 311.3K, rotational speed 2579 rpm, torque 12.5 Nm, tool wear 64 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54716",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07565",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22424. Failure modes: power failure. Air temp 300.3K, process temp 311.2K, rotational speed 1381 rpm, torque 65.2 Nm, tool wear 136 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22424",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07570",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54749. Failure modes: power failure. Air temp 300.2K, process temp 311K, rotational speed 1255 rpm, torque 71.8 Nm, tool wear 149 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54749",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07592",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22451. Failure modes: overstrain failure. Air temp 300.5K, process temp 311.1K, rotational speed 1296 rpm, torque 61.3 Nm, tool wear 202 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22451",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07594",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54773. Failure modes: overstrain failure. Air temp 300.5K, process temp 311.2K, rotational speed 1270 rpm, torque 67.5 Nm, tool wear 208 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54773",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07670",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54849. Failure modes: overstrain failure. Air temp 300.7K, process temp 311.8K, rotational speed 1336 rpm, torque 58.4 Nm, tool wear 189 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54849",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07688",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22547. Failure modes: tool wear failure. Air temp 300.7K, process temp 311.7K, rotational speed 2097 rpm, torque 18.9 Nm, tool wear 232 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22547",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07757",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54936. Failure modes: overstrain failure. Air temp 300.5K, process temp 311.8K, rotational speed 1368 rpm, torque 57.9 Nm, tool wear 191 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54936",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07760",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54939. Failure modes: overstrain failure. Air temp 300.4K, process temp 311.8K, rotational speed 1272 rpm, torque 59.2 Nm, tool wear 198 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54939",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07764",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L54943. Failure modes: power failure. Air temp 300.4K, process temp 311.6K, rotational speed 1200 rpm, torque 76.6 Nm, tool wear 3 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L54943",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07850",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22709. Failure modes: tool wear failure. Air temp 300.3K, process temp 311.7K, rotational speed 1374 rpm, torque 47.9 Nm, tool wear 222 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22709",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07885",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55064. Failure modes: power failure. Air temp 300.8K, process temp 312.4K, rotational speed 1465 rpm, torque 59.1 Nm, tool wear 91 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55064",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07927",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55106. Failure modes: overstrain failure. Air temp 300.7K, process temp 311.9K, rotational speed 1335 rpm, torque 57.1 Nm, tool wear 194 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55106",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-07998",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22857. Failure modes: power failure. Air temp 301.0K, process temp 312.2K, rotational speed 2710 rpm, torque 9.7 Nm, tool wear 143 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22857",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08027",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55206. Failure modes: overstrain failure. Air temp 300.7K, process temp 311.9K, rotational speed 1399 rpm, torque 50.2 Nm, tool wear 222 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55206",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08112",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M22971. Failure modes: tool wear failure. Air temp 300.4K, process temp 311.8K, rotational speed 1553 rpm, torque 33.1 Nm, tool wear 209 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M22971",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08193",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55372. Failure modes: overstrain failure. Air temp 299.6K, process temp 310.9K, rotational speed 1229 rpm, torque 65.2 Nm, tool wear 209 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55372",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08196",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55375. Failure modes: overstrain failure. Air temp 299.4K, process temp 310.8K, rotational speed 1376 rpm, torque 53.9 Nm, tool wear 215 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55375",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08200",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55379. Failure modes: tool wear failure. Air temp 299.2K, process temp 310.7K, rotational speed 1737 rpm, torque 27.0 Nm, tool wear 225 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55379",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08246",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23105. Failure modes: power failure. Air temp 299.0K, process temp 310.3K, rotational speed 1303 rpm, torque 68.6 Nm, tool wear 111 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23105",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08308",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23167. Failure modes: power failure. Air temp 298.7K, process temp 310.1K, rotational speed 1402 rpm, torque 69.7 Nm, tool wear 64 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23167",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08358",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55537. Failure modes: tool wear failure. Air temp 298.5K, process temp 309.5K, rotational speed 1385 rpm, torque 46.3 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55537",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08399",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55578. Failure modes: power failure. Air temp 298.5K, process temp 309.7K, rotational speed 2617 rpm, torque 12.1 Nm, tool wear 102 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55578",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08438",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55617. Failure modes: overstrain failure. Air temp 298.7K, process temp 309.8K, rotational speed 1181 rpm, torque 65.9 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55617",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08507",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55686. Failure modes: unspecified. Air temp 298.4K, process temp 309.6K, rotational speed 1710 rpm, torque 27.3 Nm, tool wear 163 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55686",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-08583",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23442. Failure modes: power failure. Air temp 297.5K, process temp 308.1K, rotational speed 1334 rpm, torque 72.0 Nm, tool wear 151 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23442",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08609",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55788. Failure modes: overstrain failure. Air temp 297.4K, process temp 308.4K, rotational speed 1369 rpm, torque 50.6 Nm, tool wear 220 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55788",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08610",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55789. Failure modes: tool wear failure. Air temp 297.4K, process temp 308.3K, rotational speed 1475 rpm, torque 40.5 Nm, tool wear 222 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55789",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08691",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L55870. Failure modes: tool wear failure. Air temp 297.1K, process temp 308.5K, rotational speed 1323 rpm, torque 44.4 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L55870",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08847",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23706. Failure modes: tool wear failure, overstrain failure. Air temp 297.4K, process temp 308.8K, rotational speed 1325 rpm, torque 62.4 Nm, tool wear 204 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23706",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-08927",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23786. Failure modes: power failure, overstrain failure. Air temp 297.3K, process temp 308.3K, rotational speed 1459 rpm, torque 59.6 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23786",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09015",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type M",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset M23874. Failure modes: overstrain failure. Air temp 297.2K, process temp 308.1K, rotational speed 1340 rpm, torque 61.3 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "M23874",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09016",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56195. Failure modes: unspecified. Air temp 297.2K, process temp 308.1K, rotational speed 1431 rpm, torque 49.7 Nm, tool wear 210 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56195",
+    "machine_failure": 1,
+    "failure_modes": []
+  },
+  {
+    "timestamp": "AI4I-09017",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56196. Failure modes: overstrain failure. Air temp 297.3K, process temp 308.2K, rotational speed 1396 rpm, torque 52.7 Nm, tool wear 212 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56196",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09019",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56198. Failure modes: tool wear failure. Air temp 297.3K, process temp 308.1K, rotational speed 1615 rpm, torque 35.4 Nm, tool wear 217 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56198",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09085",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56264. Failure modes: power failure, overstrain failure. Air temp 297.2K, process temp 307.9K, rotational speed 1326 rpm, torque 75.4 Nm, tool wear 172 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56264",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09175",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56354. Failure modes: tool wear failure. Air temp 297.8K, process temp 308.9K, rotational speed 1871 rpm, torque 25.6 Nm, tool wear 200 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56354",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09176",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56355. Failure modes: power failure. Air temp 297.8K, process temp 309K, rotational speed 1403 rpm, torque 64.2 Nm, tool wear 0 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56355",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09415",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56594. Failure modes: overstrain failure. Air temp 298.1K, process temp 308.6K, rotational speed 1354 rpm, torque 53.9 Nm, tool wear 207 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56594",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09494",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56673. Failure modes: overstrain failure. Air temp 299.1K, process temp 309.8K, rotational speed 1398 rpm, torque 55.4 Nm, tool wear 217 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56673",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09577",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56756. Failure modes: tool wear failure. Air temp 299.6K, process temp 310.7K, rotational speed 1922 rpm, torque 23.3 Nm, tool wear 205 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56756",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09614",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56793. Failure modes: power failure. Air temp 299.0K, process temp 310.2K, rotational speed 1377 rpm, torque 62.5 Nm, tool wear 92 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56793",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09654",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56833. Failure modes: overstrain failure. Air temp 299.0K, process temp 309.9K, rotational speed 1373 rpm, torque 55.7 Nm, tool wear 201 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56833",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09655",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56834. Failure modes: overstrain failure. Air temp 299.1K, process temp 310K, rotational speed 1367 rpm, torque 56.3 Nm, tool wear 203 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56834",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09660",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56839. Failure modes: overstrain failure. Air temp 298.9K, process temp 309.8K, rotational speed 1287 rpm, torque 61.9 Nm, tool wear 216 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56839",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09664",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56843. Failure modes: overstrain failure. Air temp 299.1K, process temp 310.1K, rotational speed 1435 rpm, torque 48.8 Nm, tool wear 229 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56843",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09665",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56844. Failure modes: overstrain failure. Air temp 299.1K, process temp 310.2K, rotational speed 1317 rpm, torque 54.8 Nm, tool wear 231 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56844",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09668",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56847. Failure modes: overstrain failure. Air temp 299.2K, process temp 310.3K, rotational speed 1352 rpm, torque 48.9 Nm, tool wear 238 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56847",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09759",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56938. Failure modes: tool wear failure. Air temp 298.6K, process temp 309.8K, rotational speed 2271 rpm, torque 16.2 Nm, tool wear 218 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56938",
+    "machine_failure": 1,
+    "failure_modes": [
+      "tool wear failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09765",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L56944. Failure modes: power failure. Air temp 298.5K, process temp 309.5K, rotational speed 1294 rpm, torque 66.7 Nm, tool wear 12 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L56944",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09823",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L57002. Failure modes: overstrain failure. Air temp 298.5K, process temp 309.4K, rotational speed 1360 rpm, torque 60.9 Nm, tool wear 187 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L57002",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09831",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L57010. Failure modes: overstrain failure. Air temp 298.3K, process temp 309.3K, rotational speed 1337 rpm, torque 56.1 Nm, tool wear 206 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L57010",
+    "machine_failure": 1,
+    "failure_modes": [
+      "overstrain failure"
+    ]
+  },
+  {
+    "timestamp": "AI4I-09975",
+    "line": "AI4I Demo Line",
+    "machine": "AI4I Machine Type L",
+    "level": "FAULT",
+    "message": "AI4I predictive maintenance failure on asset L57154. Failure modes: power failure, overstrain failure. Air temp 298.6K, process temp 308.2K, rotational speed 1361 rpm, torque 68.2 Nm, tool wear 172 min.",
+    "source_dataset": "UCI AI4I 2020 Predictive Maintenance Dataset",
+    "product_id": "L57154",
+    "machine_failure": 1,
+    "failure_modes": [
+      "power failure",
+      "overstrain failure"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "line": "Line 3",
+    "current_batch": "Bottled Tea",
+    "deadline": "15:00",
+    "remaining_units": 2400,
+    "normal_units_per_minute": 120,
+    "reduced_speed_units_per_minute": 72
+  }
+]

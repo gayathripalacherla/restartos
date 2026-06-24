@@ -1,0 +1,16 @@
+{
+  "restart_recovery": {
+    "required": [
+      "machine_events",
+      "maintenance_history",
+      "manuals",
+      "safety_rules",
+      "quality_rules",
+      "production_schedule"
+    ],
+    "optional": [
+      "ai4i_machine_events"
+    ],
+    "description": "Evidence required before RestartOS can generate recovery artifacts."
+  }
+}

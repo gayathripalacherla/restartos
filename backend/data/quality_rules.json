@@ -1,0 +1,12 @@
+[
+  {
+    "product": "Bottled Tea",
+    "fault_type": "filler_fault",
+    "requirements": [
+      "Hold first 180 bottles after restart",
+      "Check fill volume every 15 minutes for first hour",
+      "Inspect caps and seals before release",
+      "QA approval required before releasing held product"
+    ]
+  }
+]

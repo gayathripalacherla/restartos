@@ -1,0 +1,12 @@
+[
+  {
+    "machine": "Filler",
+    "section": "6.2 Servo Overload Troubleshooting",
+    "content": "If servo overload occurs after pressure instability, inspect filler head resistance, clean the affected head, verify servo temperature, and run a dry cycle before restart."
+  },
+  {
+    "machine": "Filler",
+    "section": "7.1 Restart Procedure",
+    "content": "After a filler fault, verify guards are closed, confirm no bottle accumulation remains, run a 10-minute dry cycle, and restart at reduced speed while monitoring pressure."
+  }
+]

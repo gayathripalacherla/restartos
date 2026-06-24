@@ -1,0 +1,13 @@
+[
+  {
+    "machine": "Filler",
+    "action_type": "restart",
+    "requirements": [
+      "Verify all guards are closed",
+      "Clear bottle accumulation around filler and capper",
+      "Confirm emergency stop circuit is reset",
+      "Run 10-minute dry cycle before production restart"
+    ],
+    "human_approval_required": true
+  }
+]
