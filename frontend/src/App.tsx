@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import './App.css'
 
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL ?? 'http://127.0.0.1:8000'
+
 type TraceStep = {
   agent: string
   tool: string
@@ -116,7 +119,7 @@ function App() {
   })
 
   async function loadRuns() {
-    const response = await fetch('http://127.0.0.1:8000/runs')
+    const response = await fetch(`${API_BASE_URL}/runs`)
     const data = await response.json()
     setRuns(data.runs)
   }
@@ -126,7 +129,7 @@ function App() {
     setError(null)
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/incident/run', {
+      const response = await fetch(`${API_BASE_URL}/incident/run`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(form),
@@ -151,7 +154,7 @@ function App() {
     setError(null)
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/incident/brain-run', {
+      const response = await fetch(`${API_BASE_URL}/incident/brain-run`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ scenario }),
